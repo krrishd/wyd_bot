@@ -1,0 +1,13 @@
+{
+  "name": "wydbot",
+  "version": "1.0.0",
+  "description": "a bot that asks wyd",
+  "main": "index.js",
+  "repository": "https://github.com/krrishd/wydbot",
+  "author": "Krish Dholakiya <krishna.dholakiya@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "twit": "^2.2.11"
+  }
+}
