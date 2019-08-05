@@ -1,0 +1,8 @@
+You actually have to define this in Heroku's scheduler UI, but for posterity:
+
+- Monday morning (6AM ET):
+  - big or small, what are you afraid of this week? what advice and/or encouragement do you have for the folks in the replies? (node morning.js)
+- Other weekday mornings (6AM ET):
+  - what are your hopes for today? (node morning.js)
+- Weekday evenings (8PM ET):
+  - what did you do today that aligned with your values, with the person you would like to be? (node index.js)
